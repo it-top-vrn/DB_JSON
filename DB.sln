@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{30795918-9234-4BE9-974B-BAABFD86AE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect", "Connect\Connect.csproj", "{EEE674E0-933D-4E01-A2D5-F122870B4450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30795918-9234-4BE9-974B-BAABFD86AE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30795918-9234-4BE9-974B-BAABFD86AE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30795918-9234-4BE9-974B-BAABFD86AE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30795918-9234-4BE9-974B-BAABFD86AE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE674E0-933D-4E01-A2D5-F122870B4450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE674E0-933D-4E01-A2D5-F122870B4450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE674E0-933D-4E01-A2D5-F122870B4450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE674E0-933D-4E01-A2D5-F122870B4450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
